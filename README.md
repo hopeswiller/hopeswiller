@@ -41,7 +41,7 @@
 
 **🐱 My Github Data** 
 
-> 🏆 41 Contributions in the Year 2021 and still counting
+> 🏆 51 Contributions in the Year 2021 and still counting
  > 
 > 📜 17 Public Repositories 
  > 
