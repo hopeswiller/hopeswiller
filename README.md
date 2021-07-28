@@ -1,6 +1,6 @@
 <h2>Namaste🙏🏻, I'm hopeswiller! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Software Engineer at <a href="https://www.petraonline.com"><strong>Petra</strong></a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Software Developer at <a href="https://www.petraonline.com"><strong>Petra</strong></a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/hopeswiller_?label=Follow)](https://twitter.com/intent/follow?screen_name=hopeswiller_)
@@ -19,7 +19,6 @@
     - Python - Django, FastAPI
     - Javascript - Nodejs, Vue.js
     - Dot.Net
-    - Vue.js
     - Flutter
 ### DevOps
     - Docker🐳
@@ -37,11 +36,11 @@
 <!--START_SECTION:waka-->
 <!-- ![Profile Views](http://img.shields.io/badge/Profile%20Views-945-blue) -->
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-874599%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9874599%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 51 Contributions in the Year 2021 and still counting
+> 🏆 44 Contributions in the Year 2021 and still counting
  > 
 > 📜 17 Public Repositories 
  > 
