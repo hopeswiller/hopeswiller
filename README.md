@@ -1,4 +1,4 @@
-<h2>Namaste🙏🏻, I'm David Boateng Adams! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h2>Namaste🙏🏻, I'm hopeswiller! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <p><em>Software Engineer at <a href="https://www.petraonline.com"><strong>Petra</strong></a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
@@ -9,7 +9,6 @@
 <!-- [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://anmolsingh.me/) -->
 ![](https://visitor-badge.glitch.me/badge?page_id=hopeswiller)
 <!-- ![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg) -->
-
 
 # <em>A little more about me...  </em>
 
@@ -28,9 +27,7 @@
     - AWS
     - Nginx
 ### Databases
-    - Postgres
-    - MySql
-    - Mongo
+    -Postgres       -MySql      -Mongo
 
 - Also Efficient with Adobe XD & PhotoShop
 
