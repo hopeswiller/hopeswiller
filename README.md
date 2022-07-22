@@ -41,7 +41,7 @@
 
 **🐱 My Github Data** 
 
-> 🏆 83 Contributions in the Year 2021 and still counting
+> 🏆 53 Contributions in the Year 2021 and still counting
  > 
 > 📜 27 Public Repositories 
  > 
@@ -50,5 +50,5 @@
 **I'm an Early 🐤** 
 
 
- Last Updated on 17/06/2022
+ Last Updated on 22/07/2022
 <!--END_SECTION:waka-->
