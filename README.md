@@ -41,12 +41,12 @@
 
 > 🏆 53 Contributions in the Year 2021 and still counting
  > 
-> 📜 27 Public Repositories 
+> 📜 33 Public Repositories 
  > 
 <!-- > 🔑 0 Private Repositories   -->
  > 
 **I'm an Early 🐤** 
 
 
- Last Updated on 22/07/2022
+ Last Updated on 18/10/2022
 <!--END_SECTION:waka-->
