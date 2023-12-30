@@ -21,11 +21,11 @@
     - Flutter
 ### DevOps
     - Docker🐳
-    - Rancher
+    - K8s
     - AWS
     - Nginx
 ### Databases
-    -Postgres       -MySql      -Mongo
+    -Postgres      -MySql      -Mongo    -Redis
 
 - Also Efficient with Adobe XD & PhotoShop
 
@@ -41,7 +41,7 @@
 
 > 🏆 53 Contributions in the Year 2021 and still counting
  > 
-> 📜 33 Public Repositories 
+> 📜 36 Public Repositories 
  > 
 <!-- > 🔑 0 Private Repositories   -->
  > 
