@@ -4,7 +4,7 @@
 </em></p>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/hopeswiller_?label=Follow)](https://twitter.com/intent/follow?screen_name=hopeswiller_)
-[![Linkedin: david-adams](https://img.shields.io/badge/-davidadams-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/david-adams-4a167715b/)](https://www.linkedin.com/in/david-adams-4a167715b/)
+[![Linkedin: david-adams](https://img.shields.io/badge/-davidadams-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/davidboatengadams/)](https://www.linkedin.com/in/davidboatengadams/)
 ![GitHub followers](https://img.shields.io/github/followers/hopeswiller?label=Follow&style=social)
 <!-- [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://anmolsingh.me/) -->
 ![](https://visitor-badge.glitch.me/badge?page_id=hopeswiller)
