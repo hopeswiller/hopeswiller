@@ -1,6 +1,6 @@
 <h2>Namaste🙏🏻, I'm hopeswiller! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Software Developer at <a href="https://www.petraonline.com"><strong>Petra</strong></a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Software Engineer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/hopeswiller_?label=Follow)](https://twitter.com/intent/follow?screen_name=hopeswiller_)
@@ -11,13 +11,13 @@
 
 # <em>A little more about me...  </em>
 
-#### _<b>Current Focus:</b> Vue.js & TypeScript_
+#### _<b>Current Focus:</b> Chilling
 #### _<b>Fun Fact:</b> There are two ways to write error-free programs; only the third one works_
 
 ### Code
     - Python - Django, FastAPI
     - Javascript - Nodejs, Vue.js
-    - Dot.Net
+    - .Net
     - Flutter
 ### DevOps
     - Docker🐳
@@ -25,7 +25,7 @@
     - AWS
     - Nginx
 ### Databases
-    -Postgres      -MySql      -Mongo    -Redis
+    -Postgres     -MySql      -Mongo    -Redis
 
 - Also Efficient with Adobe XD & PhotoShop
 
